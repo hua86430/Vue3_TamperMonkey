@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Vue 3 TamperMonkey
-// @version      1.3.3
+// @version      1.3.56
 // @author       TWSC_Jack
 // @description 各種省時間的小東西
 // @namespace ***
@@ -27,6 +27,8 @@
 // TrexDino
 // @include        /^http://(stg.dino-pay|internal.drakonas).co/login.*/
 
+// @updateURL https://github.com/hua86430/Vue3_TamperMonkey/raw/main/main.user.js
+// @downloadURL https://github.com/hua86430/Vue3_TamperMonkey/raw/main/main.user.js
 // @require https://greasyfork.org/scripts/7847-script-updater-userscripts-org/code/Script%20Updater%20(userscriptsorg).js?version=34757
 // @require      https://cdn.jsdelivr.net/npm/vue@3.2.31/dist/vue.global.prod.min.js
 // ==/UserScript==
