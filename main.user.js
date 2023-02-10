@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Vue 3 TamperMonkey
-// @version      1.3.56
+// @version      1.4
 // @author       TWSC_Jack
 // @description 各種省時間的小東西
 // @namespace ***
